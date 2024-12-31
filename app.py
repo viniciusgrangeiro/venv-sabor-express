@@ -21,7 +21,7 @@ if response.status_code == 200:
             # dados_restaurante
             # [
             #     [
-            #         McDonalds
+                    # McDonalds //nome_do_restaurante
             #         [
             #             item: item,
             #             price: preco,
